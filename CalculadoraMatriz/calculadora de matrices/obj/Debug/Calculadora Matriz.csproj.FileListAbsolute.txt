@@ -1,0 +1,12 @@
+F:\CalculadoraMatriz\CalculadoraMatriz\calculadora de matrices\bin\Debug\calculadora de matrices.exe.config
+F:\CalculadoraMatriz\CalculadoraMatriz\calculadora de matrices\bin\Debug\calculadora de matrices.exe
+F:\CalculadoraMatriz\CalculadoraMatriz\calculadora de matrices\bin\Debug\calculadora de matrices.pdb
+F:\CalculadoraMatriz\CalculadoraMatriz\calculadora de matrices\obj\Debug\Calculadora Matriz.csprojAssemblyReference.cache
+F:\CalculadoraMatriz\CalculadoraMatriz\calculadora de matrices\obj\Debug\calculadora_de_matrices.CalculadoraMatrices.resources
+F:\CalculadoraMatriz\CalculadoraMatriz\calculadora de matrices\obj\Debug\calculadora_de_matrices.INSTRUCCIONES.resources
+F:\CalculadoraMatriz\CalculadoraMatriz\calculadora de matrices\obj\Debug\calculadora_de_matrices.ProductoDeDosMatrices.resources
+F:\CalculadoraMatriz\CalculadoraMatriz\calculadora de matrices\obj\Debug\calculadora_de_matrices.Properties.Resources.resources
+F:\CalculadoraMatriz\CalculadoraMatriz\calculadora de matrices\obj\Debug\Calculadora Matriz.csproj.GenerateResource.cache
+F:\CalculadoraMatriz\CalculadoraMatriz\calculadora de matrices\obj\Debug\Calculadora Matriz.csproj.CoreCompileInputs.cache
+F:\CalculadoraMatriz\CalculadoraMatriz\calculadora de matrices\obj\Debug\calculadora de matrices.exe
+F:\CalculadoraMatriz\CalculadoraMatriz\calculadora de matrices\obj\Debug\calculadora de matrices.pdb
